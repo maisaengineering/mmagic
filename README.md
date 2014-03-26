@@ -1,0 +1,4 @@
+mmagic
+======
+
+automation repo
